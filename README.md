@@ -7,6 +7,6 @@ This Script is written in JSFX for REAPER.
 
 - Download: https://stash.reaper.fm/v/37749/MIDI%20Note%20Repeater%20%5BDefault%20Key%20Map%20B1%20-%20A4%5D
 - Forum: https://forum.cockos.com/showthread.php?p=2214486
-- Blog-article: https://willrecords.tk/jsfx_midi_note_repeater.php
+- Blog-article: https://willrecords.tk/jsfx-midi-note-repeater.php
 
 - Version: 2.0
